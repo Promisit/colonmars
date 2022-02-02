@@ -1,0 +1,32 @@
+#left-block    { 
+	border: 2px solid white;
+    float: left; /* Обтекание справа */
+    width: 550px; /* Ширина колонки */
+    padding: 10px; /* Поля вокруг текста */
+    text-decoration: none;
+    display: block;
+	padding: 2px;
+	margin: 1px;
+	font-size: 20px;
+	background: #000000;
+	border: 1px solid white;
+	border-radius: 40px;
+	margin: 0;
+    margin: 200px 10px 20px 5px; /* Значения отступов */
+   }
+
+#left-block div {
+	padding: 2px;
+}
+
+#left-block a {
+	display: block;
+	padding: 2px;
+	margin: 1px;
+	font-size: 20px;
+	background: #000000;
+	border: 1px solid white;
+	border-radius: 40px;
+	margin: 0;
+	text-decoration: none;
+}
